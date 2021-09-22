@@ -10,9 +10,9 @@
 
 --- 
 ### My Github profile status
-[![Ankit Khatri's github stats](https://github-readme-stats.vercel.app/api?username=ankitkhatriofficial&count_private=true&include_all_commits=true&theme=vue)](https://www.github.com/ankitkhatriofficial)
+[![Ankit Khatri's github stats](https://github-readme-stats.vercel.app/api?username=ankitkhatriofficial&count_private=true&include_all_commits=true&theme=vue&show_icons=true)](https://www.github.com/ankitkhatriofficial)
 
-### ++Connect with me++
+### Connect with me
 - Twitter : [@ankitkhatri0](https://wwww.twitter.com/ankitkhatri0)
 - Linkedin : [@ankitkhatriofficial](https://wwww.linkedin.com/in/ankitkhatriofficial)
 - Instagram : [@me_ankit_khatri](https://wwww.instagram.com/me_ankit_khatri)
