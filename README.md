@@ -9,7 +9,7 @@
 - I work more on Gitlab. I usually push my repositories & projects there. 
 
 --- 
-### My Github profile status
+### My Github profile stats
 [![Ankit Khatri's github stats](https://github-readme-stats.vercel.app/api?username=ankitkhatriofficial&count_private=true&include_all_commits=true&theme=vue&show_icons=true)](https://www.github.com/ankitkhatriofficial)
 
 ### Connect with me
