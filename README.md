@@ -11,6 +11,8 @@
 --- 
 ### My Github profile stats
 [![Ankit Khatri's github stats](https://github-readme-stats.vercel.app/api?username=ankitkhatriofficial&count_private=true&include_all_commits=true&theme=vue&show_icons=true)](https://www.github.com/ankitkhatriofficial)
+<br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitkhatriofficial)
 
 ### Connect with me
 - Twitter : [@ankitkhatri0](https://wwww.twitter.com/ankitkhatri0)
