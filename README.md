@@ -1,10 +1,9 @@
 # Welcome to my Github Profile.
-### Hi, My name is Ankit Khatri. I am a computer science student. I love to innovate new ways of doing things.
+### Hi, My name is Ankit Khatri. I love to innovate new ways of doing things.
 
 ##### MORE ABOUT ME
 - I have good grip over Java. I have been working on java, spring boot, spring security, hibernate (ORM), maven etc over 5+ years.
 - I have good knowledge of designing and developing the project architecture. I have worked upon various kinds of projects like e-commerce, inventory systems, Renting/Booking websites, eduTech etc.
-- From 1 year, I have been solving coding problems on leetcode, geeksforgeeks, codeforecs, binarysearch etc. It boosted up my problem solving skills.
 - I am also a part time freelancer. I develop projects for my clients, i take usually backend type project from clients but sometimes i also have to go with full-stack web project.
 - I work more on Gitlab. I usually push my repositories & projects there. 
 
