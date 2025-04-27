@@ -14,6 +14,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitkhatriofficial)
 
 ### Connect with me
-- Twitter : [@ankitkhatri0](https://wwww.twitter.com/ankitkhatri0)
-- Linkedin : [@ankitkhatriofficial](https://wwww.linkedin.com/in/ankitkhatriofficial)
-- Instagram : [@me_ankit_khatri](https://wwww.instagram.com/me_ankit_khatri)
+- Twitter : [@ankitkhatri0](https://www.twitter.com/ankitkhatri0)
+- Linkedin : [@ankitkhatriofficial](https://www.linkedin.com/in/ankitkhatriofficial)
+- Instagram : [@ankitkhatriofficial](https://www.instagram.com/ankitkhatriofficial)
